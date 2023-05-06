@@ -2,7 +2,7 @@
 
 
 Defender: **Vaibhav Garg** ([vgarg3@ncsu.edu](mailto:vgarg3@ncsu.edu))  
-Presenting on: May 19th, 2023, 02:00PM - 04:00 PM on Zoom    
+Presenting on May 19th, 2023, 02:00PM - 04:00 PM on Zoom    
 Advisor: **Dr. Munindar P. Singh** ([mpsingh@ncsu.edu](mailto:mpsingh@ncsu.edu))    
 
 
@@ -29,3 +29,4 @@ Overall, this research offers computational approaches to mitigate harassment pr
 * * *
 
   * <a href="https://github.com/Vaibhav-g/phd_prelims/blob/main/Thesis_Proposal.pdf" target="_blank">Thesis Proposal - Version 1 (May 05, 2023)</a> -- submitted for review.
+
