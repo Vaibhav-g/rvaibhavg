@@ -2,7 +2,6 @@
 
 ## Abstract
 
---
 ***---Insert one line sentence here---***
 
 Defender: Vaibhav Garg (vgarg3@ncsu.edu)  
@@ -21,6 +20,6 @@ Committee:
 
 
 ## Documents
---
+
   * [Thesis Proposal - Version 1 (May 05, 2023)](https://github.com/Vaibhav-g/phd_prelims/blob/main/Thesis_Proposal.pdf) -- version submitted for review
   
