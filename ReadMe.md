@@ -1,7 +1,6 @@
 # Understanding Harassment-related Posts using Natural Language Processing
 
-## Abstract
---
+
 
 ***---Insert one line sentence here---***
 
@@ -17,12 +16,12 @@ Committee:
 1. Dr. Veronica Cateté 
 1. Dr. Kama Kosenko
   
-  
-  
+## Abstract
+* * *
 
 
 ## Documents
---
+* * *
 
   * [Thesis Proposal - Version 1 (May 05, 2023)](https://github.com/Vaibhav-g/phd_prelims/blob/main/Thesis_Proposal.pdf) -- version submitted for review
   
