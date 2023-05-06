@@ -28,7 +28,4 @@ Overall, this research offers computational approaches to mitigate harassment pr
 ## Documents
 * * *
 
-  * [Thesis Proposal - Version 1 (May 05, 2023)](https://github.com/Vaibhav-g/phd_prelims/blob/main/Thesis_Proposal.pdf) 
-  * <a href="https://github.com/Vaibhav-g/phd_prelims/blob/main/Thesis_Proposal.pdf" application/pdf target="_blank">Thesis Proposal - Version 1 (May 05, 2023)</a> -- submitted for review
-  * <embed src="https://github.com/Vaibhav-g/phd_prelims/blob/main/Thesis_Proposal.pdf" width="100%" height="745px" />
-  
+  * <a href="https://github.com/Vaibhav-g/phd_prelims/blob/main/Thesis_Proposal.pdf" target="_blank">Thesis Proposal - Version 1 (May 05, 2023)</a> -- submitted for review.
