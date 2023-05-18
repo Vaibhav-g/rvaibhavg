@@ -1,4 +1,4 @@
-# Unveiling Harassment through Natural Language and Computational Approaches
+# Unveiling Harassment through Natural Language Processing
 
 
 Defender: **Vaibhav Garg** ([vgarg3@ncsu.edu](mailto:vgarg3@ncsu.edu))  
@@ -28,5 +28,6 @@ Overall, this research offers computational approaches to mitigate harassment pr
 ## Documents
 * * *
 
+  * <a href="https://drive.google.com/file/d/1nnZG9f1_8gMbI0VFI9CKv67NO2E2xrPr/view?usp=sharing" target="_blank">Thesis Proposal - Version 2 (May 18, 2023)</a> -- submitted for review.
   * <a href="https://drive.google.com/file/d/1Aqd2uM0Ccr3HMOzIvdBgATcsLA4DxzTB/view?usp=sharing" target="_blank">Thesis Proposal - Version 1 (May 05, 2023)</a> -- submitted for review.
 
