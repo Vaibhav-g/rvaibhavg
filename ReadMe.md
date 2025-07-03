@@ -10,6 +10,8 @@ Applied NLP, Social media analytics, AI for social good, Responsible computing, 
 Cheng-Chen Huang, was masters student at Virginia Tech; Currently research intern at SONY
 
 Mansi Saxena, a current Ph.D. student at NCSU
+
+
 Sanjana Cheerla, a current Ph.D. student at NCSU
 
 Ganning Xu, was research intern at NCSU; Currently pursuing his undergrad from Georgia Tech University
@@ -19,6 +21,8 @@ Ganning Xu, was research intern at NCSU; Currently pursuing his undergrad from G
 ## Awards and Achievements
 
 Outstanding Ph.D. Dissertation Award -- Computer Science, NC State
+
+
 Won the Carla Savage Award - the most awesome Ph.D. student, Spring 2023
 
 Won the best Master’s thesis award in Computer Science, 2019
@@ -28,7 +32,8 @@ Won the best Master’s thesis award in Computer Science, 2019
 
 Sanjana Cheerla, Vaibhav Garg, Saikath Bhattacharya, and Munindar P. Singh. "Weapons of Online Harassment: Menacing and Profiling Users via Social Apps." To Appear; Accepted at IEEE Computer.
 
-Vaibhav Garg, Hui Guo, Nirav Ajmeri, Saikath Bhattacharya, and Munindar P. Singh. "Understanding App Reviews to Guide Misuse Audits." To Appear; Accepted at Communications of the ACM (Impact factor=22.7).
+
+Vaibhav Garg, Hui Guo, Nirav Ajmeri, Saikath Bhattacharya, and Munindar P. Singh. "Understanding App Reviews to Guide Misuse Audits." To Appear; Accepted at Communications of the ACM **(Impact factor=22.7)**.
 
 Mansi Saxena, Vaibhav Garg, Bhaskar Ray, Aura Mishra, and Munindar Singh. 2025. "Understanding Narratives of Trauma on Social Media." In Proceedings of the 17th ACM Web Science Conference 2025 (Websci '25). Association for Computing Machinery, New York, NY, USA, 338–347. https://doi.org/10.1145/3717867.3717892
 
@@ -39,6 +44,8 @@ Vaibhav Garg, Hannah Javidi, Jiaqing Yuan, Ruijie Xi, and Munindar P. Singh. 202
 
 Amanul Haque, Vaibhav Garg, Hui Guo, and Munindar Singh. 2022. Pixie: Preference in Implicit and Explicit Comparisons. In Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers), pages 106–112, Dublin, Ireland. Association for Computational Linguistics.
 
+
+Sanjana Cheerla, Vignitha Ampally, Vaibhav Garg, Saikath Bhattacharya, and Munindar P. Singh. "Identifying Online Misbehavior." Poster at the Hot Topics in the Science of Security (HotSoS) Symposium. 2020. **Best Undergraduate Student Poster Award to Sanjana Cheerla**
 
 
 
