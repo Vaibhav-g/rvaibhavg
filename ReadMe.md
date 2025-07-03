@@ -28,6 +28,30 @@ Won the Carla Savage Award - the most awesome Ph.D. student, Spring 2023
 Won the best Master’s thesis award in Computer Science, 2019
 
 
+## Teaching 
+
+
+Natural Language Processing    -- Fall 2025
+
+Social Media Analytics         -- Fall 2025
+
+
+
+
+
+Natural Language Processing    -- Spring 2025
+
+Machine Learning with Big Data -- Spring 2025
+
+
+
+
+
+Natural Language Processing    -- Fall 2024
+
+Social Media Analytics         -- Fall 2024
+
+
 ## Publications
 
 Sanjana Cheerla, Vaibhav Garg, Saikath Bhattacharya, and Munindar P. Singh. "Weapons of Online Harassment: Menacing and Profiling Users via Social Apps." To Appear; Accepted at IEEE Computer.
