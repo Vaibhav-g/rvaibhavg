@@ -61,7 +61,7 @@ Won the **best Master’s thesis award** in Computer Science, 2019
 **Social Media Analytics**         -- Fall 2024
 
 
-## Publications
+## Selected Publications
 
 Sanjana Cheerla, Vaibhav Garg, Saikath Bhattacharya, and Munindar P. Singh. "Weapons of Online Harassment: Menacing and Profiling Users via Social Apps." To Appear; Accepted at **IEEE Computer**.
 
