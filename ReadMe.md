@@ -1,7 +1,3 @@
----
-layout: default
-title: 👋 Hi, I'm Vaibhav Garg
----
 
 
 
