@@ -1,4 +1,4 @@
-# title: 👋 Hi, I'm Vaibhav
+# 👋 Hi, I'm Vaibhav
 
 
 
