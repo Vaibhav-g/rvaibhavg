@@ -10,7 +10,7 @@ I'm a faculty at Virginia Tech and a researcher in applied NLP, computational so
 
 
 <div style="text-align:center; margin-bottom: 1.5em;">
-  <a href="readme.md">My Full Profile</a> |
+  <a href="ReadMe.md">My Full Profile</a> |
   <a href="contact.md">Contact</a>
 </div>
 
