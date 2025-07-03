@@ -6,7 +6,7 @@ This is me trying to give a serious look to my students when they think they're 
 
 
 
-Hi, I am Collegiate Assistant Professor in Computer Science at Virginia Tech (Innovation Campus). I received my Ph.D. from NC State University in 2024. My interests lie in building NLP systems for social good. My research spans across understanding multiple aspects of social media such as studying the narratives used in hate speech and inciting speech. Moreover, I analyze how we can facilitate support to users on mental-health communities and other support-seeking communities. I have also served as a reviewer in reputed venues such as ACL, ICWSM, and ACM TIST.
+Hi, I am Collegiate Assistant Professor in Computer Science at Virginia Tech (Innovation Campus). I received my Ph.D. from NC State University in 2024. My interests lie in building NLP systems for social good. My research spans across understanding multiple aspects of social media such as studying the narratives used in hate speech and inciting speech. Moreover, I analyze how we can facilitate support to users on mental-health and other support-seeking communities. I have also served as a reviewer in reputed venues such as ACL, ICWSM, and ACM TIST.
 
 
 
