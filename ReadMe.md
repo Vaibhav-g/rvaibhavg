@@ -2,7 +2,7 @@
 <div style="text-align: center;">
   <img src="vaibhav.jpg" alt="Vaibhav's profile picture" width="160" style="border-radius: 50%; margin-bottom: 1em; box-shadow: 0 0 10px rgba(0,0,0,0.1);">
 </div>
-
+This is me trying to give a serious look to my students when they think they're sectretly clicking me LOL
 
 
 I am Collegiate Assistant Professor in Computer Science at Virginia Tech (Innovation Campus). I received my Ph.D. from NC State University in 2024. My interests lie in building NLP systems for social good. On social media, my research spans across understanding multiple aspects of harassment and assisting support-seeking communities. I have also served as a reviewer in reputed venues such as ACL, ICWSM, and ACM TIST.
