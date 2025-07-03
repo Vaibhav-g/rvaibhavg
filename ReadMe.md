@@ -1,6 +1,6 @@
 
 <div style="text-align: center;">
-  <img src="vaibhav.jpg" alt="Vaibhav's profile picture" width="160" style="border-radius: 50%; margin-bottom: 1em; box-shadow: 0 0 10px rgba(0,0,0,0.1);">
+  <img src="vaibhav.jpg" alt="Vaibhav's profile picture" width="160" style="border-radius: 0%; margin-bottom: 1em; box-shadow: 0 0 10px rgba(0,0,0,0.1);">
 </div>
 This is me trying to give a serious look to my students when they think they're sectretly clicking me LOL
 
