@@ -1,3 +1,10 @@
+---
+layout: default
+title: Full Profile
+---
+
+
+
 
 Hey, I am Collegiate Assistant Professor in Computer Science at Virginia Tech (Innovation Campus). I received my Ph.D. from NC State University in 2024. My interests lie in building NLP systems for social good. On social media, my research spans across understanding multiple aspects of harassment and assisting support-seeking communities. I have also served as a reviewer in reputed venues such as ACL, ICWSM, and ACM TIST.
 
