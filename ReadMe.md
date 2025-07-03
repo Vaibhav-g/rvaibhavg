@@ -2,10 +2,44 @@
 
 Hey, I am Collegiate Assistant Professor in Computer Science at Virginia Tech (Innovation Campus). I received my Ph.D. from NC State University in 2024. My interests lie in building NLP systems for social good. On social media, my research spans across understanding multiple aspects of harassment and assisting support-seeking communities. I have also served as a reviewer in reputed venues such as ACL, ICWSM, and ACM TIST.
 
-## Documents
-* * *
-  * <a href="https://drive.google.com/file/d/1YWlVXafPeO46cc-1ArRdQlquUW-dri8W/view?usp=sharing" target="_blank">Dissertation- Version 2 (March 02, 2024)</a> -- submitted for review.
-  * <a href="https://drive.google.com/file/d/1GVZWVfGgxoLWNNOab34QpMHbtUd2mr3q/view?usp=sharing" target="_blank">Dissertation- Version 1 (Feb 19, 2024)</a> -- submitted for review.
-  * <a href="https://drive.google.com/file/d/1nnZG9f1_8gMbI0VFI9CKv67NO2E2xrPr/view?usp=sharing" target="_blank">Thesis Proposal - Version 2 (May 18, 2023)</a> -- accepted.
-  * <a href="https://drive.google.com/file/d/1Aqd2uM0Ccr3HMOzIvdBgATcsLA4DxzTB/view?usp=sharing" target="_blank">Thesis Proposal - Version 1 (May 05, 2023)</a> -- submitted for review.
+## Research Interests
+Applied NLP, Social media analytics, AI for social good, Responsible computing, Computational social science
+
+
+## Advising and Mentoring
+Cheng-Chen Huang, was masters student at Virginia Tech; Currently research intern at SONY
+
+Mansi Saxena, a current Ph.D. student at NCSU
+Sanjana Cheerla, a current Ph.D. student at NCSU
+
+Ganning Xu, was research intern at NCSU; Currently pursuing his undergrad from Georgia Tech University
+
+
+
+## Awards and Achievements
+
+Outstanding Ph.D. Dissertation Award -- Computer Science, NC State
+Won the Carla Savage Award - the most awesome Ph.D. student, Spring 2023
+
+Won the best Master’s thesis award in Computer Science, 2019
+
+
+## Publications
+
+Sanjana Cheerla, Vaibhav Garg, Saikath Bhattacharya, and Munindar P. Singh. "Weapons of Online Harassment: Menacing and Profiling Users via Social Apps." To Appear; Accepted at IEEE Computer.
+
+Vaibhav Garg, Hui Guo, Nirav Ajmeri, Saikath Bhattacharya, and Munindar P. Singh. "Understanding App Reviews to Guide Misuse Audits." To Appear; Accepted at Communications of the ACM (Impact factor=22.7).
+
+Mansi Saxena, Vaibhav Garg, Bhaskar Ray, Aura Mishra, and Munindar Singh. 2025. "Understanding Narratives of Trauma on Social Media." In Proceedings of the 17th ACM Web Science Conference 2025 (Websci '25). Association for Computing Machinery, New York, NY, USA, 338–347. https://doi.org/10.1145/3717867.3717892
+
+Vaibhav Garg, Ganning Xu and Munindar P. Singh, "Understanding Inciting Speech as New Malice," in IEEE Transactions on Computational Social Systems, vol. 12, no. 3, pp. 947-956, June 2025, doi: 10.1109/TCSS.2024.3504357
+
+Vaibhav Garg, Hannah Javidi, Jiaqing Yuan, Ruijie Xi, and Munindar P. Singh. 2025. "Analyzing Reddit Stories of Sexual Violence: Incidents, Effects, and Requests for Advice." Proceedings of the International AAAI Conference on Web and Social Media. 19, 1 (Jun. 2025), 568-585. DOI:https://doi.org/10.1609/icwsm.v19i1.35832.
+
+
+Amanul Haque, Vaibhav Garg, Hui Guo, and Munindar Singh. 2022. Pixie: Preference in Implicit and Explicit Comparisons. In Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers), pages 106–112, Dublin, Ireland. Association for Computational Linguistics.
+
+
+
+
 
