@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Full Profile
+title: 👋 Hi, I'm Vaibhav Garg
 ---
 
 
