@@ -29,7 +29,9 @@ Applied NLP, Social media analytics, AI for social good, Responsible computing, 
 
 ## Awards and Achievements
 
-**Outstanding Ph.D. Dissertation Award** -- Computer Science, NC State
+**Outstanding Teaching Recognition** -- Virginia Tech, Innovation Campus, 2025
+
+**Outstanding Ph.D. Dissertation Award** -- Computer Science, NC State, 2025
 
 
 **Won the Carla Savage Award** -- the most awesome Ph.D. student, Spring 2023
