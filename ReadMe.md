@@ -65,7 +65,7 @@ Won the **best Master’s thesis award** in Computer Science, 2019
 
 ## Selected Publications
 
-Sanjana Cheerla, Vaibhav Garg, Saikath Bhattacharya, and Munindar P. Singh. "Weapons of Online Harassment: Menacing and Profiling Users via Social Apps." To Appear; Accepted at **IEEE Computer**.
+Sanjana Cheerla, Vaibhav Garg, Saikath Bhattacharya, and Munindar P. Singh. "Weapons of Online Harassment: Menacing and Profiling Users via Social Apps." **IEEE Computer**  vol. 58, no. 12, pp. 84-95, Dec. 2025, doi: 10.1109/MC.2025.3587710.
 
 
 Vaibhav Garg, Hui Guo, Nirav Ajmeri, Saikath Bhattacharya, and Munindar P. Singh. "Understanding App Reviews to Guide Misuse Audits." **Communications of the ACM (Impact factor=22.7)**. July 2025. https://dl.acm.org/doi/10.1145/3685528 
